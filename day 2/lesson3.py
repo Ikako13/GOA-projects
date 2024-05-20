@@ -7,4 +7,4 @@ print ("22" ":" "2")
 print ("5" "*" "3")
 #we multiplie 5 to 3
 
- 
+ #string is a data type used in programming that is used to represent text rather than numbers
