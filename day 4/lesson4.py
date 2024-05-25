@@ -1,34 +1,50 @@
-number1 = 1.50 #number1 is price of thing and number2 is how many things I will buy
-number2 = 2
+
+name1 = "ikako"
+name2 = "suladze"
+name3 = name1 +""+ name2
+print (name3)
+# #this is my name and my last name
+
+#on this page 27 is my number and 26 is users number
+number1 = 27
+number2 = 26
 number3 = number1 + number2
 print(number3)
-#num1 is my age and num2 is my brothers age
-num1 = "13"
-num2 = 16
-num3 = int (num1) + num2
-print (num3)
 
-number11 = 15
-number12 = 13
-number13 = number11 - number12
-print (number13)
+#now this page is little difrent on other pages I took only 2 varriables but on this page I take 3 varriables
+number11 = 10
+number12 = 30
+number13 = 2
+number14 = number11 + number12 / number13
+print(number14)
 
-num11 = 3
-num12 = 20
-num13 = num11 * num12
-print (num13)
+#in here one page has 15 but in string but on other page its just 15
+num11 = "15"
+num12 = 5
+num13 = int (15 * 5)
+print(num13)
 
-number21 = 22
-number22 = 13
-number23 = number21 + number22
-print (number23)
+num111 = 15
+num112 = 5
+num113 = num111 * num112
+print(num113)
 
-num21 = 35
-num22 = 5
-num23 = num21 / num22
-print (num23)
+num1 = 15
+num2 = 12 
+num3 = num1 = num2
+print(num3)
 
-num31 = 13
-num32 = 35
-num33 = num31 + num32
-print(num33)
+num1 = 27
+num2 = 26
+num3 = num1 - num2
+print(num3)
+
+num1 = 22
+num2 = 11
+num3 = num1 + num2
+print(num3)
+
+num1 = 12
+num2 = 6
+num3 = num1 / num2
+print(num3)
