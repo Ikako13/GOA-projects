@@ -1,0 +1,11 @@
+print(5 > 4)
+print(3 < 5)
+print(33 > 4)
+print(23 < 44)
+print(15 < 33)
+
+print(5 > 55)
+print(13 > 22)
+print(22 > 111)
+print(1 > 3)
+print(5 > 6)

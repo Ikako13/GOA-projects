@@ -15,7 +15,7 @@ print(number3)
 number11 = 10
 number12 = 30
 number13 = 2
-number14 = number11 + number12 / number13
+number14 = number11 + number12 // number13
 print(number14)
 
 #in here one page has 15 but in string but on other page its just 15
