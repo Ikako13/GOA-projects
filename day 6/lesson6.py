@@ -1,0 +1,37 @@
+print(11 > 2)
+print(25 > 11)
+print(13 > 1)
+print(20 > 19)
+print(3 > 1)
+
+print(13 < 22)
+print(1 < 2)
+print(23 < 30)
+print(10 < 11)
+print(15 < 30)
+
+print(13 == 13)
+print(1 == 1)
+print(25 == 25)
+print(12 == 12)
+print(15 == 15)
+
+print(13 >= 1)
+print(23 >= 12)
+print(13 >= 13)
+print(12 >= 12)
+print(12 >= 3)
+
+print(12 <= 12)
+print(12 <= 30)
+print(1 <= 1)
+print(11 <= 11)
+print(15 <= 25)
+
+print("a" != "a")
+print("A" != "a")
+print("I LOVE GOA" != "I LOVE GOA")
+print("ikako" != "IKAKO")
+print("SULA" != "dze")
+
+print(11 <= 22 and "true")
