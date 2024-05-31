@@ -35,3 +35,14 @@ print("ikako" != "IKAKO")
 print("SULA" != "dze")
 
 print(11 <= 22 and "true")
+print(13 >= 12 and "true")
+print(22 <= 33 and "true")
+print(33 >= 22 and "true")
+print(123 >= 23 and "true")
+
+print(13 > 12 or 12 < 13)
+print(132 >= 22 or 22 <= 132)
+print(143 == 143 or 143 == 143)
+print(13 <= 15 or 15 >= 13)
+print(12 <= 14 or 14 >= 12)
+
