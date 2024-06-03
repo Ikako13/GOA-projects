@@ -11,7 +11,7 @@ age=13
 knows_programing= True
 is_ugly= False
 
-print ("ikako "+" suladze")
+print (name + " " +  lastname) 
 
 print ("ikako "+" 13")
 
