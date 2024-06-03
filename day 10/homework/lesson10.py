@@ -38,4 +38,4 @@ elif number == 6:
 elif number == 7:
     print("kvira")
 else:
-    print("try again")
+   int (input ("try again: "))
