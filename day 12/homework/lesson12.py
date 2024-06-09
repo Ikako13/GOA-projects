@@ -27,4 +27,4 @@ if Num > 0:
 elif Num < 0:
     print ("this number is less than 0")
 
- for   
+    
