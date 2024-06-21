@@ -1,6 +1,6 @@
 name = input("please enter you'r name: ") 
 surname = input ("please enter you'r surname: ")
-cleaprint("momxmareblis saxeli aris" + " " + name, "momxmareblis gvari aris" + " " + surname)
+print("momxmareblis saxeli aris" + " " + name, "momxmareblis gvari aris" + " " + surname)
 
 number = 14
 number1 = int (input("please chosse you'r number: "))
